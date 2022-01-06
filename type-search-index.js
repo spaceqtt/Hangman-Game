@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.claudinebustillo","l":"Blanks"},{"p":"com.claudinebustillo","l":"Main"},{"p":"com.claudinebustillo","l":"Message"},{"p":"com.claudinebustillo","l":"Mssg"}];updateSearchResults();
